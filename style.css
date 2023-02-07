@@ -1,0 +1,7 @@
+.box-two{
+    background-color: gray;
+    height: 400px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
